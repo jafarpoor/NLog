@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogPro", "NlogPro\NlogPro.csproj", "{2E56D7E4-7A03-4C82-9187-D8329FDBCBFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlogPro", "NlogPro\NlogPro.csproj", "{2E56D7E4-7A03-4C82-9187-D8329FDBCBFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlogJson", "NlogJson\NlogJson.csproj", "{D678AA12-CF08-4432-8DE1-5D26DDF63FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogDatabase", "NlogDatabase\NlogDatabase.csproj", "{D9AA5C9D-2EB0-43D9-BA3F-7E6642AE13EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2E56D7E4-7A03-4C82-9187-D8329FDBCBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E56D7E4-7A03-4C82-9187-D8329FDBCBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E56D7E4-7A03-4C82-9187-D8329FDBCBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D678AA12-CF08-4432-8DE1-5D26DDF63FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D678AA12-CF08-4432-8DE1-5D26DDF63FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D678AA12-CF08-4432-8DE1-5D26DDF63FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D678AA12-CF08-4432-8DE1-5D26DDF63FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AA5C9D-2EB0-43D9-BA3F-7E6642AE13EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AA5C9D-2EB0-43D9-BA3F-7E6642AE13EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AA5C9D-2EB0-43D9-BA3F-7E6642AE13EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AA5C9D-2EB0-43D9-BA3F-7E6642AE13EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
